@@ -6,7 +6,7 @@ Data Analyst and Data Scientist
 
 * 🌍  I'm based in Varanasi, India.
 * 🖥️  See my portfolio at [MyPorfolio](http://probablyhooman.xyz)
-* ✉️  You can contact me at [heypawan009@gmail.com](mailto:heypawan009@gmail.com)
+* ✉️  You can contact me at [sagnikpk9@gmail.com@](mailto:heypawan009@gmail.com)
 * 🚀  I'm currently working on [Machine Learning](http://https://github.com/intel-analytics)
 * 🧠  I'm learning Data Science,Machine Learning and AI also preparing for DSA.
 * 🤝  I'm open to collaborating on Open Source Projects.
