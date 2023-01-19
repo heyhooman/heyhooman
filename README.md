@@ -6,7 +6,7 @@ Data Analyst and Data Scientist
 
 * 🌍  I'm based in India.
 * 🖥️  See my portfolio at [MyPorfolio](http://probablyhooman.xyz)
-* ✉️  You can contact me at [0xhooman@gmail.com(mailto:oxhooman@gmail.com)
+* ✉️  You can contact me at [0xhooman@gmail.com](mailto:oxhooman@gmail.com)
 * 🚀  I'm currently working on [Machine Learning](http://https://github.com/intel-analytics)
 * 🧠  I'm learning Data Science,Machine Learning and AI also preparing for DSA.
 * 🤝  I'm open to collaborating on Open Source Projects.
